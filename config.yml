@@ -3,17 +3,8 @@ languageCode: en
 params:
   copyrightHolder: RNP
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  description_footer: >-
-    <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
-  description_header: >-
-    Information about <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>example</a> systems operations.<br />Follow
-    us <a class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a
-    class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
-    events.
+  description_footer: ''
+  description_header: ''
   eventsPerPage: 10
   groups:
     - Serviços
