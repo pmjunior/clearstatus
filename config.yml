@@ -8,7 +8,7 @@ params:
   eventsPerPage: 10
   groups:
     - Serviços
-  logo: /static/images/uploads/logo.png
+  logo: /images/uploads/logo.png
   meta_description: >-
     Esta pagina tem como objetivo apresentar o status dos principais serviços da
     RNP.
