@@ -20,4 +20,10 @@ params:
     - description: Atendimento e Suporte da RNP
       link: 'https://atendimento.rnp.br/'
       name: Service Desk
+    - description: Serviço de Email na Nuvem.
+      link: 'https://webmail.rnp.br'
+      name: Exchange Online
+    - description: Serviço de Email Interno
+      link: 'https://mail.rnp.br'
+      name: Zimbra Email
   timezoneString: ' America/Sao_Paulo'
