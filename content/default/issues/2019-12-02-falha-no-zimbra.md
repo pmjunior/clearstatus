@@ -3,7 +3,7 @@ section: issue
 title: Falha no acesso ao Email (Zimbra)
 date: 2019-12-02T20:03:00.000Z
 status: scheduled
-pinned: top
+pinned: belowheader
 current_severity: maintenance
 max_severity: ok
 duration: 3h
