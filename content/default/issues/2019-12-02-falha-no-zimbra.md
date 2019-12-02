@@ -10,7 +10,6 @@ duration: 3h
 resolved_on: 2019-12-02T20:45:19.000Z
 affected:
   - Site Publico
-  - Webmail
 enableComments: true
 ---
 Problemas no acesso ao serviço de email.
