@@ -17,7 +17,6 @@ Problemas no acesso ao serviço de email.
 \
 **Falha identificada:** O serviço de email apresentou uma falha de certificado. É esperado intermitencia no acesso.  {{< track "2019-12-02 20:08:19" >}}
 \
-**Monitoring:** O Certificado sera substituido. Durante a manutenção o acesso ficará indisponivel. {{< track "2019-12-02 20:31:19" >}}
-\
-**Resolved:** O serviço está disponivel, problema resolvido!
+**Solução:** O Certificado sera substituido. Durante a manutenção o acesso ficará indisponivel. {{< track "2019-12-02 20:31:19" >}}
+
 \
